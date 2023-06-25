@@ -1,0 +1,13 @@
+[user]
+	name = Ken Wang
+	email = kenuiuc@gmail.com
+[core]
+	editor = vim
+[credential]
+	helper = cache
+[diff]
+	tool = vimdiff
+[merge]
+	tool = vimdiff
+[difftool]
+	prompt = false
